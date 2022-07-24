@@ -1,3 +1,6 @@
-# Intenational-debt-analysis-with-SQL 📈📊
+## Intenational-debt-analysis-with-SQL 📈📊
 
-<h2 style="color:red; text-align : center"> this is me nezar bozzo </h2> 
+This notebook represent my work on a Datacamp project , it is about analysis statistically the international debt data provided by the World Bank dataset.
+I used SQL queries in order to get a sense of the global economic state and get an idea about the debt categories where countries in the world take the largest
+amount of debt.
+Happy coding 👩🏻‍💻👨🏻‍💻
